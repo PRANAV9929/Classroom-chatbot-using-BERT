@@ -1,0 +1,27 @@
+my_project/
+│   ├── app/
+│   │   ├── __init__.py
+│   │   ├── routes.py
+│   │   ├── models.py
+│   │   ├── chat.py
+│   │   ├── static/
+│   │   │   ├── css/
+│   │   │   │   └── style.css
+│   │   │   └── js/
+│   │   │       ├── chat.js
+│   │   │       └── socket.io.min.js
+│   │   └── templates/
+│   │       ├── chat.html
+│   │       ├── index.html
+│   │       ├── login.html
+│   │       ├── register.html
+│   │       └── base.html
+│   ├── .env
+│   ├── .gitignore
+│   ├── run.py
+│   ├── README.md
+│   ├── config.py
+│   └── requirements.txt
+|
+|
+
